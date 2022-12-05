@@ -5,7 +5,7 @@ Multiplatform Textmode windowing library.
 
 LICENSE
 ===============
-* Open Source / Not Specified
+* Open Source / MIT license
 
 COMPILE TOOLS
 ===============
